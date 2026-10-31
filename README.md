@@ -10,7 +10,7 @@
 
 | ឯកសារដំឡើង | ប្រព័ន្ធប្រតិបត្តិការ | ទំហំ | តំណទាញយក |
 | :--- | :--- | :--- | :--- |
-| **KhmerAI Teaching Assistant v1.0.35** | Windows 10 / 11 (64-bit) | ~156 MB | [⬇️ ទាញយក Setup.exe](https://github.com/reytoch/KhmerTeachingAssistant-Releases/releases/download/v1.0.32/KhmerAI-Teaching-Assistant-Setup-1.0.35.exe) |
+| **KhmerAI Teaching Assistant v1.0.35** | Windows 10 / 11 (64-bit) | ~156 MB | [⬇️ ទាញយក Setup.exe](https://github.com/reytoch/KhmerTeachingAssistant-Releases/releases/download/v1.0.35/KhmerAI-Teaching-Assistant-Setup-1.0.35.exe) |
 
 ---
 
@@ -33,7 +33,7 @@
 ---
 
 ## 🛠️ ការដំឡើង (Installation Guide)
-1. ចុចលើ [តំណទាញយក Setup v1.0.35]((https://github.com/reytoch/KhmerTeachingAssistant-Releases/releases/download/v1.0.35/KhmerAI-Teaching-Assistant-Setup-1.0.35.exe))
+1. ចុចលើ [តំណទាញយក Setup v1.0.35](https://github.com/reytoch/KhmerTeachingAssistant-Releases/releases/download/v1.0.35/KhmerAI-Teaching-Assistant-Setup-1.0.35.exe)
 2. បើកដំណើរការ File `KhmerAI-Teaching-Assistant-Setup-1.0.35.exe`
 3. អនុវត្តតាមការណែនាំលើផ្ទាំងដំឡើង រួចចុច Finish ជាការស្រេច។
 
