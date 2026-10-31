@@ -1,6 +1,6 @@
 # 🇰🇭 កម្មវិធីជំនួយការបង្រៀន AI (KhmerAI Teaching Assistant)
 
-> **ជំនាន់ចុងក្រោយបង្អស់ (Latest Release): v1.0.32**
+> **ជំនាន់ចុងក្រោយបង្អស់ (Latest Release): v1.0.35**
 
 កម្មវិធីកុំព្យូទ័រជំនួយដល់លោកគ្រូ-អ្នកគ្រូក្នុងការតែងកិច្ចតែងការបង្រៀនតាមបែបស្ថាបនានិយម (Constructivism), សកម្មភាពសិស្សមជ្ឈមណ្ឌល, វិធីសាស្ត្រ និងយុទ្ធវិធីបង្រៀនជាក់ស្តែងជាច្រើនសម្បូរបែប ស្របតាមស្តង់ដារក្រសួងអប់រំ យុវជន និងកីឡា។
 
@@ -10,24 +10,31 @@
 
 | ឯកសារដំឡើង | ប្រព័ន្ធប្រតិបត្តិការ | ទំហំ | តំណទាញយក |
 | :--- | :--- | :--- | :--- |
-| **KhmerAI Teaching Assistant v1.0.32** | Windows 10 / 11 (64-bit) | ~156 MB | [⬇️ ទាញយក Setup.exe](https://github.com/reytoch/KhmerTeachingAssistant-Releases/releases/download/v1.0.32/KhmerAI-Teaching-Assistant-Setup-1.0.32.exe) |
+| **KhmerAI Teaching Assistant v1.0.35** | Windows 10 / 11 (64-bit) | ~156 MB | [⬇️ ទាញយក Setup.exe](https://github.com/reytoch/KhmerTeachingAssistant-Releases/releases/download/v1.0.32/KhmerAI-Teaching-Assistant-Setup-1.0.35.exe) |
 
 ---
 
-## ✨ មុខងារថ្មីៗ និងការកែលម្អក្នុង v1.0.32 (What's New)
+## កំណែទម្រង់ថ្មី ជំនាន់ v1.0.35 (KhmerAI Teaching Assistant)
 
-- 🏷️ **ផ្លាស់ប្ដូរឈ្មោះកម្មវិធីជាផ្លូវការ (Official App Rebranding)**: ប្ដូរឈ្មោះកម្មវិធីពី «KhmerAI Lesson Plan» ទៅជា **«KhmerAI Teaching Assistant»** ទាំងលើ Desktop Icon (Shortcut), Window Title, Setup Installer, និងផ្ទាំងព័ត៌មាន About។
-- 🧹 **សម្អាត Shortcut ចាស់លើ Desktop ស្វ័យប្រវត្ត**: កញ្ចប់ដំឡើងថ្មីនឹងលុប Shortcut ចាស់ «KhmerAI Lesson Plan» ចេញពី Desktop ដោយស្វ័យប្រវត្ត និងជំនួសដោយ Shortcut ថ្មី **«KhmerAI Teaching Assistant»**។
-- 🔄 **រក្សាទុកទិន្នន័យចាស់ដោយសុវត្ថិភាព**: ប្រព័ន្ធនឹងធ្វើការចម្លង Settings, Google Gemini API Key និង Dictionary ចាស់មកទីតាំងថ្មីដោយស្វ័យប្រវត្ត មិនបាត់បង់ទិន្នន័យឡើយ។
-- 🖨️ **ផ្ទាំងមើលទម្រង់បោះពុម្ព A4 ក្នុងកម្មវិធី (In-App A4 Print Preview Modal)**: បង្ហាញទំព័រ A4 គំរូជាក់ស្ដែងភ្លាមៗក្នុងកម្មវិធី (Full Screen Preview) ជាមួយការគណនាបំបែកទំព័រពិតប្រាកដ (Live Page Break Indicator), អាចពង្រីក/បង្រួម (Zoom 50% - 200%), និងកំណត់បិទ/បើកក្បាលទំព័រ កាលបរិច្ឆេទ ព្រមទាំងលេខទំព័របានតាមចិត្ត។
-- 📄 **នាំចេញ PDF ផ្ទាល់កម្រិតច្បាស់ខ្ពស់ (Direct High-Quality PDF Export via Electron)**: ប៊ូតុង «💾 រក្សាទុកជា PDF (Save PDF)» ដំណើរការបោះពុម្ព និង Render ជាឯកសារ PDF A4 ដោយផ្ទាល់តាម Electron Native API យ៉ាងរលូន ច្បាស់ត្រឹមត្រូវតាមទម្រង់ក្រសួង ដោយពុំចាំបាច់ឆ្លងកាត់ផ្ទាំង System Print Dialog ស្មុគស្មាញឡើយ។
-- 🎯 **កែសម្រួលឈ្មោះបច្ចេកទេសបង្រៀនតាមគរុកោសល្យ MoEYS**: រៀបចំលំដាប់លំដោយ និងកែសម្រួលឈ្មោះបច្ចេកទេសបង្រៀនឱ្យស្របតាមសៀវភៅគរុកោសល្យផ្លូវការរបស់ក្រសួងអប់រំ យុវជន និងកីឡា។
+### មុខងារថ្មីៗ និងការកែលម្អ (What's New in v1.0.35):
+- 📐 **MathJax Formula Rendering លើគ្រប់ History & Tools**: ដោះស្រាយបញ្ហារូបមន្តគណិតវិទ្យា/រូបវិទ្យា/គីមីវិទ្យាមិនបង្ហាញរូបរាង MathJax ពេលបើកពី History។ ឥឡូវនេះរាល់ឯកសារដែលរក្សាទុកក្នុងប្រវត្តិ រួមមាន Lesson Plan, Slide, Quiz, Worksheet, Rubric និង Lab Checklist សុទ្ធតែបង្ហាញរូបមន្តស្អាត MathJax SVG ពេញលេញ ១០០%។
+- 🔄 **Queue-based MathJax Typesetting**: បង្កើត Centralized Sequential Promise Queue ការពារការបាត់ Render ឬជាន់គ្នាក្នុង MathJax v3 ដោយធានាថារាល់ឯកសារទាំងអស់ត្រូវ Render ចេញមកតាមលំដាប់លំដោយដោយជោគជ័យ។
+- 🛠️ **ស្តារ Action Toolbars ពេលបើកពី History**: បន្ថែមប៊ូតុងសកម្មភាព «បោះពុម្ព (Print / PDF)» និង «នាំចេញ Word (.doc)» ពេលលោកគ្រូ-អ្នកគ្រូស្ដារ Quiz, Worksheet និង Rubric ពីផ្ទាំង History ឡើងវិញ។
+- 📄 **Slide Word Handout Native MathML Export**: គាំទ្រការបម្លែងរូបមន្ត LaTeX ទៅជា Native Office MathML ពេលទាញយកឯកសារស្លាយជា Word (.doc)។
+- 📊 **Slide Generator Output & Word Document Import (.doc/.docx)**: គាំទ្រការ Import ឯកសារ Word ទាំងកន្ទុយ `.doc` និង `.docx` ព្រមទាំង HTML Documents ចូល Slide Generator, Quiz, Worksheet និង Lesson Plan ដោយស្វ័យប្រវត្តិ។
+- ⏱️ **Smart Duration Picker Pro**: ប្រអប់បញ្ចូលចំនួនលេខនាទីផ្ទាល់ (Direct Number Input) ជាមួយខ្នាត «នាទី» ភ្ជាប់ស្រាប់, ម៉ឺនុយទម្លាក់ចុះ Presets និងប៊ូតុងចុចលឿន ១-Click Chips (10, 15, 20, 30, 45, 60 នាទី)។
+- 📅 **History Calendar Pro & Multi-Tool Support**: ប្រព័ន្ធប្រតិទិនកត់ត្រា និងស្វែងរកឯកសារតាមមុខវិជ្ជា និងកាលបរិច្ឆេទ គាំទ្រឧបករណ៍ទាំង ៥ នៃ Teaching Toolkit។
+- ☁️ **Google Drive Auto-Sync Webhook**: មុខងារ Backup ប្រវត្តិឯកសារទៅកាន់ Google Drive ដោយស្វ័យប្រវត្តិតាមរយៈ Webhook។
+- 🛡️ **Enterprise Source Code Protection**: ការពារកូដប្រភព ១០៥ ឯកសារ ជាមួយ Bytenode V8 Binary Bytecode (`main.jsc`)។
+
+### ការដំឡើង (Installation):
+ទាញយក File `KhmerAI-Teaching-Assistant-Setup-1.0.35.exe` ខាងក្រោម រួចដំណើរការដំឡើងលើ Windows 10/11 ជាការស្រេច។
 
 ---
 
 ## 🛠️ ការដំឡើង (Installation Guide)
-1. ចុចលើ [តំណទាញយក Setup v1.0.32](https://github.com/reytoch/KhmerTeachingAssistant-Releases/releases/download/v1.0.32/KhmerAI-Teaching-Assistant-Setup-1.0.32.exe)
-2. បើកដំណើរការ File `KhmerAI-Teaching-Assistant-Setup-1.0.32.exe`
+1. ចុចលើ [តំណទាញយក Setup v1.0.35]((https://github.com/reytoch/KhmerTeachingAssistant-Releases/releases/download/v1.0.35/KhmerAI-Teaching-Assistant-Setup-1.0.35.exe))
+2. បើកដំណើរការ File `KhmerAI-Teaching-Assistant-Setup-1.0.35.exe`
 3. អនុវត្តតាមការណែនាំលើផ្ទាំងដំឡើង រួចចុច Finish ជាការស្រេច។
 
 ---
